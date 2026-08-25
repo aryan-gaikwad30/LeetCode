@@ -11,6 +11,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
