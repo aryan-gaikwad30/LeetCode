@@ -54,4 +54,5 @@
 | [0184-department-highest-salary](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
