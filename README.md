@@ -45,4 +45,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0383-ransom-note) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
