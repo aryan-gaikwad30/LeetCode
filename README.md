@@ -51,4 +51,5 @@
 | [0175-combine-two-tables](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
