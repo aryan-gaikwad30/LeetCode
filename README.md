@@ -55,4 +55,20 @@
 | [0577-employee-bonus](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/aryan-gaikwad30/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan-gaikwad30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan-gaikwad30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan-gaikwad30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan-gaikwad30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
